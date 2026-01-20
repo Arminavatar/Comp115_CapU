@@ -40,7 +40,7 @@ print(f"Exercise 1: new_num stores the value of {new_num}.")
 dividend = 10
 divisor = 3
 
-division_result = int (dividend / divisor)
+division_result = dividend / divisor
 
 quotient = int (dividend / divisor)     # The quotient should be 3
 remainder = dividend % divisor  # The remainder should be 1
